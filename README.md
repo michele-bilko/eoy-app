@@ -1,2 +1,2 @@
 # eoy-app
-Junior end of year project.
+Junior end of year project!
